@@ -1,0 +1,16 @@
+.page-not-found {
+  color: #ffffff;
+  font-size: 35px;
+}
+
+@media screen and (max-width: 768px) {
+  .page-not-found {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .page-not-found {
+    font-size: 22px;
+  }
+}
